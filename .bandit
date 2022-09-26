@@ -1,0 +1,3 @@
+[bandit]
+exclude = noxfile.py
+tests: S404,S607,S603

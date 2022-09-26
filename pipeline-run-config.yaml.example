@@ -1,0 +1,5 @@
+pipeline-name: "sample-pipeline"
+pipeline-path: "gs://path/to/sample-pipeline.json"
+gcs-root-path: "gs://path/to/staging/folder"
+location: "us-central1"
+service-account: "service-account-name@gcp-project.iam.gserviceaccount.com"
