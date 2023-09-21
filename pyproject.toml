@@ -13,7 +13,7 @@ kubernetes = ">=8.0.0,<19"
 cloudpathlib = "0.10.0"
 PyYAML = ">=5.3,<6"
 google-cloud-aiplatform = "1.17.0"
-cryptography = "38.0.1"
+cryptography = "41.0.4"
 rsa = "4.9"
 sphinx_mdinclude = "^0.5.2"
 
